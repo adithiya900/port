@@ -1,0 +1,9 @@
+.banner
+{
+ background-color:greenyellow;
+ height:100vh ;
+ weight:100%;
+ display: flex;
+ justify-content: center;
+ align-items:center ;
+}
